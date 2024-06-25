@@ -4,3 +4,5 @@ EN : Here is an aimbot trigger ready to run. / FR : Voici un aimbot trigger prê
 - Extract all the files
 - Execute projet1.exe
     Enjoy ⚡
+
+Password : SHMED
